@@ -1,8 +1,9 @@
-<h1 align="center">Hi there!<img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="35px"/>, I'm Tirth Shingala</h1>
+<!-- <h1 align="center">Hi there!<img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="35px"/>, I'm Tirth Shingala</h1> -->
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=segoe+ui&color=%23000000&size=30&center=true&height=55&lines=Hi+there!%F0%9F%91%8B%2C+I'm+Tirth+Shingala" /></h1>
 <h3 align="center">A Full Stack Web Developer And a keen learner.</h3>
-<p align="center"> <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="programming gif" width="auto" height="300px" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirthshingala&label=Profile%20views&color=0e75b6&style=flat" alt="tirthshingala" /> </p>
+<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="programming gif" align="right" width="auto" height="300px" />
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
