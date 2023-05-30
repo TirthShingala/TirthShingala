@@ -3,20 +3,15 @@
 <h1 align="center">Hey there 👋, I'm Tirth Shingala</h1>
 
 ###
-
-<h3 align="left">👩‍💻 About Me</h3>
-
-###
-
+<!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=tirthshingala&label=Profile%20views&color=0e75b6&style=flat" alt="tirthshingala" /> </p> -->
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="programming gif" align="right" width="auto" height="300px" />
 
-<p align="left">- 🔭 I’m working as SDE @VideoSDK.live<br>- 📚 I'm currently learning DevOps and System design<br>- 💬 Ask me about Backend<br>- ⚡ In my free time I like to watch some anime</p>
+<h3 align="left">👩‍💻 About Me:</h3>
+<p align="left">- 🔭 I’m working as SDE @VideoSDK.live<br>- 📚 I'm currently learning DevOps and System design<br>- 💬 Ask me about Backend<br>- ⚡ In my free time I like to watch anime</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+<h3 align="left">🛠 Language and tools:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
@@ -44,21 +39,16 @@
 
 ###
 
-<h3 align="left">🔥 My Stats</h3>
-
-###
+<h3 align="left">🔥 My Stats:</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TirthShingala&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph" /> <br> <br>
   <img src="https://streak-stats.demolab.com?user=TirthShingala&locale=en&mode=weekly&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tirthshingala&label=Profile%20views&color=0e75b6&style=flat" alt="tirthshingala" /> </p>
 
 ###
 
-<h3 align="left">🌐 Connect with me</h3>
-
-###
+<h3 align="left">🌐 Connect with me:</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/tirthshingala/" target="_blank">
